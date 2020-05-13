@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
+    <!--Appbar背景色-->
+    <color name="colorPrimary">#ff5722</color>
+    <!-- 状态栏的颜色-->
+    <color name="colorPrimaryDark">#ff5722</color>
     <color name="colorAccent">#03DAC5</color>
+    <!--ToolBar上的Title颜色-->
+    <color name="textColorPrimary">#333333</color>
 </resources>
